@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(uas_2024_211011401581_aldo LANGUAGES CXX)
+project(uas_2024_211011402097_abdul_rachman LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "uas_2024_211011401581_aldo")
+set(BINARY_NAME "uas_2024_211011402097_abdul_rachman")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
